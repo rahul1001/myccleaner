@@ -31,7 +31,7 @@ Once on the homepage, look for the **“Sign In”** or **“My Account”** lin
 
 ### Step 3: Enter Your Credentials
 
-Input your registered email address and password associated with your CCleaner account. This is the same information you used when you first purchased or registered the software. If you forget your credentials, use the password reset option to regain access.
+Input your registered email address and password associated with your CCleaner account. This is the same information you used when you first purchased or registered the software. [If you forget your credentials, use the password reset option to regain access.](https://myccleaner.readthedocs.io/)
 
 Once entered, click the **"Sign In"** button to access your account. This process completes your **CCleaner sign in account** procedure.
 
